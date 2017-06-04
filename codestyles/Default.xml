@@ -6,4 +6,7 @@
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+  </codeStyleSettings>
 </code_scheme>
