@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ContextHelp" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+</keymap>
