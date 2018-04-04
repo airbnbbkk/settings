@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="headless_shell" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="exchange" type="TypeScript" />
       <mapping pattern="send" type="TypeScript" />
